@@ -20,5 +20,12 @@ body {
 h2 {
   padding: 150px 0;
   text-align: center;
-  color: red;
+  color: rgba(248, 0, 0, 0.562);
+  background-position: center;
+  background-size: 200px 100px;
+  background-color: chartreuse;
+}
+.Running_Shoes {
+  padding-top: 100px;
+  opacity: 0.6;
 }
